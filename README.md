@@ -15,3 +15,8 @@ pip install -r requirements.txt
 # Examples 
 
 https://github.com/Skripkon/piano-music-composer/assets/78466953/28fe15f4-c0e1-41d6-8d0b-f4f8b8815904
+
+https://github.com/Skripkon/piano-music-composer/assets/78466953/594444f1-3cc6-4850-b426-0cf87548e783
+
+https://github.com/Skripkon/piano-music-composer/assets/78466953/74c5f85e-54d1-41b2-92e2-ec0fcef36fb6
+
